@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:daarinaaa/daarinaaa.githab.io.git
+	branch = main
